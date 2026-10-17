@@ -1,0 +1,8 @@
+*.cf
+*.dt
+*.log
+*.pfl
+*.mdmp
+*.bak
+Thumbs.db
+Desktop.ini
